@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\Lab02A\bin\Debug\netcoreapp3.1\Lab02A.exe
+C:\Users\ethan\source\repos\Lab02A\bin\Debug\netcoreapp3.1\Lab02A.deps.json
+C:\Users\ethan\source\repos\Lab02A\bin\Debug\netcoreapp3.1\Lab02A.runtimeconfig.json
+C:\Users\ethan\source\repos\Lab02A\bin\Debug\netcoreapp3.1\Lab02A.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Lab02A\bin\Debug\netcoreapp3.1\Lab02A.dll
+C:\Users\ethan\source\repos\Lab02A\bin\Debug\netcoreapp3.1\Lab02A.pdb
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.dll
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.pdb
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Lab02A\obj\Debug\netcoreapp3.1\Lab02A.GeneratedMSBuildEditorConfig.editorconfig
